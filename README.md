@@ -1,6 +1,6 @@
-# kubectl-navi-cheatsheet
+# kubectl commands for the Navi tool
 
-This repository contains a collection of kubectl commands for the navi interactive cheatsheet tool.
+This repository contains a collection of kubectl commands for the [navi](https://github.com/denisidoro/navi) interactive cheatsheet tool.
 
 ## What is navi?
 
